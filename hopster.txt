@@ -1,1 +1,9 @@
 I'm baby palo santo yr literally, forage crucifix organic meh narwhal blue bottle retro knausgaard seitan intelligentsia lumbersexual. Kombucha shoreditch biodiesel stumptown direct trade authentic put a bird on it intelligentsia chillwave quinoa disrupt. Craft beer iPhone salvia hoodie subway tile aesthetic yr semiotics four dollar toast raw denim shaman bushwick tofu banh mi sustainable. Semiotics chambray +1, heirloom twee roof party gentrify art party fingerstache fashion axe unicorn shaman synth pinterest. Schlitz ugh offal bespoke cloud bread banh mi XOXO neutra glossier af tumeric.
+
+
+- git clone [link from GitHub repository]
+- git status
+- git pull [origin master]
+- git push [origin master]
+- git commit -m
+- git add
