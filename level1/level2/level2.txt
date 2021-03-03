@@ -1,1 +1,0 @@
-This command is most helpful in the case when you don't know whether a directory alredy exists or not. For instance, in the above screenshot I wanted to create a 'docu' in 'created'. As you know, we already have directory 'created'. Hence, without showing an error it will create 'docu'. You can see the 'docu' directory above.

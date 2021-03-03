@@ -1,3 +1,0 @@
-Now in the later part of the image if you'll see, I have created a directory 'envelope' with its sub-directory 'letter'. As directory 'envelope' doesn't exists, it will first create 'envelope' and then its sub-directory 'letter' without printing any error.$
-
-and this is last of it $%^&*
