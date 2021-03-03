@@ -1,0 +1,1 @@
+This is just a way to learn how to start coding and programming using BASH command and all its features. It would only takes a few months till I be able to work it out safely through such a critical programming way.
